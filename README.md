@@ -3,7 +3,7 @@
 🎮 ¡Bienvenido a Puffle's, mi juego de plataformas! Este proyecto fue desarrollado exclusivamente por mí y todos los derechos están reservados. A continuación, encontrarás detalles sobre el juego y cómo disfrutarlo.
 
 #### Tema del Juego
-Sumérgete en un mundo de aventuras y desafíos con Puffle's, mi juego de plataformas. Explora múltiples niveles llenos de sorpresas y obstáculos.
+Sumérgete en un mundo de aventuras y desafíos con Puffle's. Explora múltiples niveles llenos de sorpresas y obstáculos.
 
 #### Requisitos Técnicos
 🖥️ Este juego es compatible con Windows, Linux y macOS.
@@ -21,6 +21,6 @@ Sumérgete en un mundo de aventuras y desafíos con Puffle's, mi juego de plataf
 - ⏱️ **Temporizadores:** Añaden emoción y urgencia.
 
 #### Consideraciones Éticas
-Puffle's ha sido desarrollado de manera independiente y todos los derechos están reservados. Se han respetado los derechos de autor y se promueve la ética en el desarrollo del juego.
+Puffle's ha sido desarrollado de manera independiente y todos los derechos están reservados. Se promueve la ética en el desarrollo del juego.
 
-¡Espero que disfrutes explorando cada nivel y superando los desafíos de Puffle's, mi juego de plataformas! 🌟
+¡Espero que disfrutes explorando cada nivel y superando los desafíos de Puffle's! 🌟
