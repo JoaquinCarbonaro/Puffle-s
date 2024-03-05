@@ -1,0 +1,24 @@
+{
+    "ranking": [
+        {
+            "name": "Agus",
+            "time": 9,
+            "score": 80
+        },
+        {
+            "name": "Leo",
+            "time": 29,
+            "score": 80
+        },
+        {
+            "name": "Joa",
+            "time": 9,
+            "score": 20
+        },
+        {
+            "name": "Leonel",
+            "time": 58,
+            "score": 10
+        }
+    ]
+}
